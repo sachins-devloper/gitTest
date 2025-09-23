@@ -8,6 +8,7 @@ int main(){
     }
 
     char name[20] = "Sachin"; 
-
+    printf("%s", name);
+    
     return 0;
 }
