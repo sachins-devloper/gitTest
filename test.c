@@ -10,11 +10,7 @@ int main()
     }
 
     char name[20] = "Sachin";
-
-    for (int i = 0; i < 10; i++){
-        printf("%d", i);
-    }
-
+    
     char name[20] = "Sachin"; 
     printf("%s", name);
     
