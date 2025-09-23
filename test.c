@@ -7,5 +7,7 @@ int main(){
         printf("%d", i);
     }
 
+    char name[20] = "Sachin"; 
+
     return 0;
 }
