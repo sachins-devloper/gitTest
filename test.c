@@ -14,7 +14,7 @@ int main()
         printf("%d", i);
     }
 
-    char name[20] = "Sachin";
+    char name[20] = "Sachin"; 
     printf("%s", name);
     
     return 0;
